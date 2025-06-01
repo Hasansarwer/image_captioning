@@ -1,3 +1,4 @@
 *.txt
 hugging_face/
 
+.gradio
